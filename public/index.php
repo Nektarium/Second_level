@@ -19,6 +19,4 @@ if(array_key_exists($route, $routes)) {
 	dd(404);
 }
 
-die('123');
-
 ?>
