@@ -8,7 +8,7 @@ include __DIR__ . '/../functions.php';
 
 $routes = [
 	"/" => 'functions/homepage.php',
-	"/about" => 'functions/about.php'
+	"/about" => 'functions/about.php',
 ];
 
 $route = $_SERVER['REQUEST_URI'];
